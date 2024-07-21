@@ -13,10 +13,15 @@ A simple, yet powerful Command Line Interface (CLI) to-do list manager built wit
 
 ### Prerequisites
 
-Ensure you have Python installed on your system.
+Could you make sure you have Python installed on your system?
 
 ### Installation
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/cli-todo-list.git
+   https://github.com/TAKI-KARTHIK/Todo-list--CLI.git
+2. **Navigate to the project directory:**
+   ``bash
+   cd Todo-list--CLI
+
+
