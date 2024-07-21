@@ -13,15 +13,26 @@ A simple, yet powerful Command Line Interface (CLI) to-do list manager built wit
 
 ### Prerequisites
 
-Could you make sure you have Python installed on your system?
+Please make sure you have Python installed on your system.
 
-### Installation
+### Available Commands
+1. add "task description" + "task category": ➕ Add a new task.
+2. Show: 📜 Show all tasks.
+3. complete [task ID]: ✔️ Mark a task as completed.
+4. delete [task ID]: ❌ Remove a task.
 
-1. **Clone this repository:**
-   ```bash
-   https://github.com/TAKI-KARTHIK/Todo-list--CLI.git
-2. **Navigate to the project directory:**
-   ``bash
-   cd Todo-list--CLI
+### 🤝 Contributing
+We welcome contributions! If you have suggestions or find any bugs, please open an issue or create a pull request.
+
+1. Fork the Project.
+2. Create your Feature Branch (git checkout -b feature/AmazingFeature).
+3. Commit your changes (git commit -m 'Add some AmazingFeature').
+4. Push to the Branch (git push origin feature/AmazingFeature).
+5. Open a Pull Request.
+
+### 📧 Contact
+KARTHIK R - karthikr.contact@gmail.com
+
+Project Link: https://github.com/TAKI-KARTHIK/Todo-list--CLI.git
 
 
