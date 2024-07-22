@@ -14,7 +14,7 @@ A simple, yet powerful Command Line Interface (CLI) to-do list manager built wit
 ### Prerequisites
 
 Please make sure you have Python installed on your system.
-Install typer and rich using the command 
+### Install typer and rich using the command 
 ```pip install typer rich```
 
 ### Available Commands
